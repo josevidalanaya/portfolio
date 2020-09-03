@@ -4,7 +4,9 @@
     "description": "My Portfolio",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "dev": "next src/",
+        "build": "next build src/",
+        "start": "next start src/"
     },
     "repository": {
         "type": "git",
@@ -24,5 +26,10 @@
     "bugs": {
         "url": "https://github.com/josevidalanaya/portfolio/issues"
     },
-    "homepage": "https://github.com/josevidalanaya/portfolio#readme"
+    "homepage": "https://github.com/josevidalanaya/portfolio#readme",
+    "dependencies": {
+        "next": "^9.5.3",
+        "react": "^16.13.1",
+        "react-dom": "^16.13.1"
+    }
 }
