@@ -31,7 +31,7 @@
     "bugs": {
         "url": "https://github.com/josevidalanaya/portfolio/issues"
     },
-    "homepage": "https://github.com/josevidalanaya/portfolio#readme",
+    "homepage": "https://jgva-dev.web.app",
     "dependencies": {
         "firebase-admin": "^9.2.0",
         "firebase-functions": "^3.11.0",
